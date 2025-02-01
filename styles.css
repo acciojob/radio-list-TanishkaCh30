@@ -1,5 +1,3 @@
-.input-label{
+.input-label:nth-child(even){
 	color:rgb(255, 0, 0);
 }
-
-
